@@ -1,0 +1,5 @@
+{
+  "name": "ModelArena",
+  "description": "A professional video model comparison tool for evaluating generation quality across multiple model versions.",
+  "requestFramePermissions": []
+}
